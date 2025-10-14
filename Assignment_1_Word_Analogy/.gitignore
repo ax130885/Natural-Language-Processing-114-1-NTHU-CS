@@ -1,0 +1,9 @@
+*.txt
+*.txt.gz
+*.png
+*.csv
+*.zip
+*.npy
+*.model
+
+!requirement.txt
